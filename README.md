@@ -55,3 +55,21 @@ Prompt-Engineering-101/
    ```bash
    cd Prompt-Engineering-101
 
+3. Explore the Prompts and Code folders for examples and practice files
+ 
+---
+
+## 💡 Features
+- Learn to craft prompts for various applications.
+- Experiment with simulated outputs.
+- Build a foundation for using AI APIs in the future.
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
+
+---
+## 📜 License
+This project is licensed under the MIT License—see the LICENSE file for details.
+
