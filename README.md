@@ -14,3 +14,39 @@ Prompt engineering is the process of designing effective prompts to guide the be
 
 ## 🗂️ Repository Structure
 
+Prompt-Engineering-101/
+│
+├── Prompts/
+│   ├── task1_example_prompt.txt
+│   ├── task2_example_prompt.txt
+│
+├── Code/
+│   ├── simulate_responses.py
+│
+├── Examples/
+│   ├── prompt1_input_output.txt
+│   ├── prompt2_input_output.txt
+│
+├── README.md
+└── LICENSE
+
+
+---
+
+## 🛠️ Technologies Used
+- Python 3.x
+- Markdown for documentation
+
+---
+
+## ✨ Features
+- Learn to craft prompts for various applications.
+- Experiment with simulated outputs.
+- Build a foundation for using AI APIs in the future.
+
+---
+
+## 💡 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/Prompt-Engineering-101.git
