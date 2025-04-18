@@ -1,4 +1,4 @@
-*Prompt Engineering 101*
+**Prompt Engineering 101**
 
 Welcome to Prompt Engineering 101! This repository is a hands-on learning project showcasing the art of prompt engineering with large language models (LLMs). Here, you'll find example prompts, simulated responses, and Python scripts to experiment with crafting effective inputs for AI models.
 
