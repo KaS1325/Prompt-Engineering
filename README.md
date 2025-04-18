@@ -50,3 +50,8 @@ Prompt-Engineering-101/
 1. Clone this repository:
    ```bash
    git clone https://github.com/YourUsername/Prompt-Engineering-101.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd Prompt-Engineering-101
+
